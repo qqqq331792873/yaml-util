@@ -12,6 +12,5 @@ public class Test {
 		System.out.println(YamlUtil.get("think"));
 		YamlUtil.use("else.yaml");
 		System.out.println(YamlUtil.get("author"));
-		
 	}
 }
