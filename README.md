@@ -1,4 +1,4 @@
-# yaml-util
+# yamlutil
 Handle all configuration related issues
 
 
